@@ -1,10 +1,5 @@
 # LLM Embeddings Search Engine
 LLM source engine which utilizes LangChain to search documents trained locally
 
-## Description
+![Results](evaluation/results/figures/syllabus.png)
 
-*TODO*
-
-## Usage
-
-*TODO*
